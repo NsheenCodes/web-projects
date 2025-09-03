@@ -15,6 +15,10 @@ Here’s a collection of my HTML, CSS, and JavaScript projects.
 3. **Calculator**  
    - [View Code](https://github.com/NsheenCodes/my-calculator)  
    - [Live Demo](https://nsheenCodes.github.io/my-calculator/)
+  
+4. **Myntra Clone Functional**  
+   - [View Code](https://github.com/NsheenCodes/Myntra-Functional)  
+   - [Live Demo](https://nsheenCodes.github.io/Myntra-Functional/)
 
 ---
 ⭐ More projects coming soon...
